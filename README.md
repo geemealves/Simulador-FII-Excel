@@ -28,7 +28,7 @@ Este projeto consiste em uma **ferramenta interativa desenvolvida no Microsoft E
 
 Para começar a simular seus investimentos:
 
-1.  **Baixe** o arquivo da planilha: `Simulador_Investimentos_Fundos_Imobiliarios.xlsx` (ou o nome que você deu ao seu arquivo).
+1.  **Baixe** o arquivo da planilha: `Simulador-FII-Excel`.
 2.  **Abra-o** no Microsoft Excel.
 3.  **Preencha as células de entrada** designadas (geralmente destacadas ou identificadas) com suas informações de investimento, como valor inicial, aporte mensal, tempo em meses/anos, rentabilidade média mensal (%) e o preço da cota do FII.
 4.  **Observe os resultados** calculados automaticamente na seção de resultados.
